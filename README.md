@@ -1,3 +1,3 @@
 # demo
 
-red to A;
+red do A;
