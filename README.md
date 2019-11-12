@@ -6,3 +6,5 @@ red do C;
 
 red do D;
 
+blue do F;
+
