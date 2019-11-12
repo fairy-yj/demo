@@ -2,5 +2,7 @@
 
 red do A;
 
+red do C;
 
-blue do D;
+red do D;
+
